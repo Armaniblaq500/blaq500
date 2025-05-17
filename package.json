@@ -1,0 +1,20 @@
+{
+  "name": "blaq500",
+  "version": "1.0.0",
+  "description": "A project for Tea Protocol",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Armaniblaq500/blaq500.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Armaniblaq500/blaq500/issues"
+  },
+  "homepage": "https://github.com/Armaniblaq500/blaq500#readme"
+}
